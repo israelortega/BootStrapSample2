@@ -327,46 +327,63 @@
 
                 <!-- Main content -->
                 <section class="content">
-
                     <div class="row" style="margin-bottom:5px;">
 
                         <div class="col-md-3">
                             <div class="sm-st clearfix">
-                                <span class="sm-st-icon st-red"><i class="fa fa-check-square-o"></i></span>
+                                <span class="sm-st-icon st-red"><i class="fa fa-briefcase"></i></span>
                                 <div class="sm-st-info">
-                                    <span>3200</span>
-                                    Total Tasks
+                                    <span>15</span>
+                                    Portafolios
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3">
                             <div class="sm-st clearfix">
-                                <span class="sm-st-icon st-violet"><i class="fa fa-envelope-o"></i></span>
+                                <span class="sm-st-icon st-violet"><i class="fa fa-pagelines"></i></span>
                                 <div class="sm-st-info">
-                                    <span>2200</span>
-                                    Total Messages
+                                    <span>17</span>
+                                    Proyectos
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3">
                             <div class="sm-st clearfix">
-                                <span class="sm-st-icon st-blue"><i class="fa fa-dollar"></i></span>
+                                <span class="sm-st-icon st-blue"><i class="fa fa-tasks"></i></span>
                                 <div class="sm-st-info">
-                                    <span>100,320</span>
-                                    Total Profit
+                                    <span>9</span>
+                                    Tareas pendientes
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3">
                             <div class="sm-st clearfix">
-                                <span class="sm-st-icon st-green"><i class="fa fa-paperclip"></i></span>
+                                <span class="sm-st-icon st-green"><i class="fa fa-envelope"></i></span>
                                 <div class="sm-st-info">
-                                    <span>4567</span>
-                                    Total Documents
+                                    <span>4</span>
+                                    Mensajes
                                 </div>
                             </div>
                         </div>
                     </div>
+
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="panel">
+                                <header class="panel-heading">
+                                    Bienvenido
+                                </header>
+                                <div class="panel-body">
+                                    <h1>Hola Israel:</h1>
+                                    <p>Es un gran acontecimiento darte la bienvenida al Sistema Gestor de 
+                                    conocimiento de la Dirección de Sistemas de la DGPE
+                                    </p>
+                                    
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+
 
                 </section><!-- /.content -->
                 <div class="footer-main">
